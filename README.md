@@ -17,4 +17,5 @@
 - git pull origin fix1  (download all branches with changes)
 
 ![alt text](image-1.png)
-- git checkout fix3  
+- git checkout fix3
+- fix4
