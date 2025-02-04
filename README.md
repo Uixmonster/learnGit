@@ -8,3 +8,4 @@
 - git push origin master
 
 - git clone <'link to your repo'>
+- git checkout fix3  
